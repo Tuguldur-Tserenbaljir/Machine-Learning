@@ -2,8 +2,8 @@
 ***Summer 2024, EE231001 Machine Learning, 孫民(SUN, MIN)***<br/>
 This course introduces the basic mathematical theoretical basis of machine learning and its application in different fields (such as pattern recognition, signal processing and data analysis and statistics).practical application).
 # Homeworks
-Assignment 1- 95/100 
-Assignment 2- 96/100 
+Assignment 1- 95/100 <br/>
+Assignment 2- 96/100 <br/>
 
 # Syllabus
 1. Introduction to machine learning
